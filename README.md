@@ -7,7 +7,7 @@ This README outlines a daily study plan for completing Striver's A2Z DSA course,
 ## General Daily Approach (2-Hour Slot)
 
 - **30-45 minutes: Concept Review**
-  - [ ] Watch Striver's videos, review notes, and understand the core theory for the day's topic.
+  - [x] Watch Striver's videos, review notes, and understand the core theory for the day's topic.
   - [ ] Adjust time if you're new to a concept.
 - **1 hour - 1 hour 15 minutes: Problem Solving**
   - [ ] Aim for **2-3 easy/medium problems** or **1-2 hard problems**.
